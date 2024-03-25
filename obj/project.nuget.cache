@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "idhEQO7GQkBwCNvwxBKNgR4Ay6b/QtV8jYgqZuNz+uLk1nLeCkS2K0D6av7aGfXV9Sm4wI0OBpS3oNEp6CSUEw==",
+  "success": true,
+  "projectFilePath": "D:\\git\\WPF-RTSP-Viewer\\WPF-RTSP-Viewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17332\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\opencvsharp4\\4.9.0.20240103\\opencvsharp4.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\opencvsharp4.extensions\\4.9.0.20240103\\opencvsharp4.extensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\opencvsharp4.runtime.win\\4.9.0.20240103\\opencvsharp4.runtime.win.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.9.0.20240103\\opencvsharp4.wpfextensions.4.9.0.20240103.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\17332\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\WPF-RTSP-Viewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|d:\\git\\wpf-rtsp-viewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|d:\\git\\wpf-rtsp-viewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|d:\\git\\wpf-rtsp-viewer\\rtsphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E246CCEC-EFBD-4BAD-B941-E63096431673}|WPF-RTSP-Viewer.csproj|solutionrelative:rtsphelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RtspHelpers.cs",
+              "DocumentMoniker": "D:\\git\\WPF-RTSP-Viewer\\RtspHelpers.cs",
+              "RelativeDocumentMoniker": "RtspHelpers.cs",
+              "ToolTip": "D:\\git\\WPF-RTSP-Viewer\\RtspHelpers.cs",
+              "RelativeToolTip": "RtspHelpers.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAwFEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:16:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\git\\WPF-RTSP-Viewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\git\\WPF-RTSP-Viewer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T03:07:23.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\git\\WPF-RTSP-Viewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\git\\WPF-RTSP-Viewer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T03:07:23.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
